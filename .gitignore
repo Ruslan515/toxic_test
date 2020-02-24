@@ -177,3 +177,5 @@ dmypy.json
 .idea/modules.xml
 .idea/toxic_test.iml
 .idea/vcs.xml
+toxic.ipynb
+utils.py
